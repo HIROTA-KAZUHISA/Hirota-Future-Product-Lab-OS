@@ -8,12 +8,48 @@
 - フォルダは `Meetings/` 直下から探す（例：`Meetings/20260707-製品会議/`）
 - フォルダが存在しない場合は、そのことを報告して停止する
 
+## トークン消費を抑える運用
+
+- 文字起こしはローカル Whisper で行うため **Claude のトークンを消費しない**
+- トークンを使うのは transcript の読み込みと議事録整理のみ
+- 議事録作成は軽量モデルで十分。`claude --model haiku` で起動するか、実行前に `/model` で Haiku を選ぶことを推奨する
+
+## フォルダ＝1つの会議
+
+**フォルダ内の音声ファイルが複数あっても、すべて同一会議の録音として扱う。**
+
+- 前半・後半に分かれた録音、複数レコーダーの録音を想定する
+- ファイル名の連番・更新日時の順に文字起こしし、1つの `transcript.txt` に連結する
+- 連結位置には `=== ファイル名 ===` の区切り行を入れ、タイムスタンプはファイルごとに 00:00 から振る
+
 ## 情報ソースの優先順位
 
-1. 既存の文字起こしテキスト（`transcript.txt`・`*-voice.txt`・Teams/Zoom のエクスポート等）
-2. 音声ファイル（`.m4a` / `.mp3` / `.wav` / `.wma`）→ ローカルで文字起こしする（後述）
-3. `Memo.txt`（手書きメモ。出席者・決定事項の確認に最優先で使う）
-4. フォルダ内の写真（ホワイトボード・配布資料。文字を読み取って反映する）
+1. `MeetingInfo.txt`（会議情報・参加メンバー・専用単語。後述）
+2. 既存の文字起こしテキスト（`transcript.txt`・`*-voice.txt`・Teams/Zoom のエクスポート等）
+3. 音声ファイル（`.m4a` / `.mp3` / `.wav` / `.wma`）→ ローカルで文字起こしする（後述）
+4. `Memo.txt`（手書きメモ。決定事項の確認に使う）
+5. フォルダ内の写真（ホワイトボード・配布資料。文字を読み取って反映する）
+
+## MeetingInfo.txt（会議情報ファイル）
+
+各会議フォルダに `MeetingInfo.txt` を置く（雛形は `Meetings/_TEMPLATE/MeetingInfo.txt`）。
+
+```text
+【会議名】
+【日時】
+【場所】
+
+【参加メンバー】※発言者特定に使う。フルネームで
+・廣田和久（技術部）
+
+【専用単語】※文字起こしの認識精度向上に使う（製品型式・製品名・企業名・社内用語）
+・BX30S
+```
+
+- **参加メンバー**：議事録のメタ情報と発言者特定（「発言者A」→実名の置き換え）に使う
+- **専用単語**：文字起こし時に Whisper への `initial_prompt` として渡し、固有名詞の誤認識を減らす
+- 全会議共通の単語は `Meetings/Dictionary.txt`（共通辞書）に登録する。文字起こし時は **共通辞書＋MeetingInfo の専用単語を統合**して使う
+- `MeetingInfo.txt` が無い場合も動作するが、出席者は［要確認］になる
 
 ## 作業方針
 
@@ -34,16 +70,29 @@ pip install faster-whisper
 ```
 
 ```python
-# transcribe.py として実行（音声ファイル名は実際のものに置き換える）
+# transcribe.py として実行
+import glob, os
 from faster_whisper import WhisperModel
+
+folder = "."  # 会議フォルダ
+audios = sorted(
+    [f for ext in ("*.m4a","*.mp3","*.wav","*.WAV","*.wma") for f in glob.glob(os.path.join(folder, ext))],
+    key=os.path.getmtime)
+
+# 専用単語（共通辞書 Meetings/Dictionary.txt ＋ MeetingInfo.txt の【専用単語】を統合）を
+# initial_prompt に渡すと固有名詞の認識精度が上がる
+words = "BX30S、〇〇株式会社"  # 実際は両ファイルから読み込んで結合する
+prompt = f"以下は社内会議の録音。専門用語・固有名詞：{words}。"
 
 # CPU なら "medium"、GPU があれば "large-v3" を使う
 model = WhisperModel("medium", device="auto", compute_type="auto")
-segments, info = model.transcribe("audio.m4a", language="ja")
 
-with open("transcript.txt", "w", encoding="utf-8") as f:
-    for s in segments:
-        f.write(f"[{int(s.start//60):02d}:{int(s.start%60):02d}] {s.text}\n")
+with open(os.path.join(folder, "transcript.txt"), "w", encoding="utf-8") as f:
+    for a in audios:
+        f.write(f"=== {os.path.basename(a)} ===\n")
+        segments, info = model.transcribe(a, language="ja", vad_filter=True, initial_prompt=prompt)
+        for s in segments:
+            f.write(f"[{int(s.start//60):02d}:{int(s.start%60):02d}] {s.text.strip()}\n")
 ```
 
 - 長時間の会議では処理に時間がかかる。進捗を報告しながら待つ
@@ -97,7 +146,27 @@ with open("transcript.txt", "w", encoding="utf-8") as f:
 ## ⚠️ 要確認
 
 （［要確認］［聴取不能］箇所をここに集約。無ければセクションごと省略）
+
+---
+
+## 🎙️ 忠実版（発言記録）
+
+> 時系列の発言記録。フィラー（「えー」「あの」）と言い直しのみ除去し、発言内容は要約せず忠実に残す。
+
+**録音ファイル：ファイル名（HH:MM〜、X分）**
+
+[00:17] **廣田**：発言内容をそのまま。
+[00:19] **発言者A**：発言内容をそのまま。
 ```
+
+### 要約版と忠実版の書き分け
+
+- **前半（1〜5章）＝要約版**：読む人のための整理。論点別・簡潔
+- **忠実版**：あとから「実際は何と言ったか」を確認するための記録
+  - 発言は要約・言い換えをしない（フィラー・言い直しの除去のみ可）
+  - 発言者は MeetingInfo.txt の参加メンバーと照合して実名にする。特定できない場合は **発言者A/B** で統一
+  - 明らかな誤認識（文脈上ありえない語）は `［誤認識か：原文ママ］` を添えて残す
+  - 録音ファイルが複数ある場合はファイルごとに小見出しを立てる
 
 - 文字起こしの逐語転記はしない。**要約・整理**して記載する
 - ニュアンスが重要な発言は「」で原文引用する
