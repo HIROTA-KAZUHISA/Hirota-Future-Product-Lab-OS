@@ -10,8 +10,12 @@
 | Claude Code | スキルの実行環境 | https://claude.com/claude-code |
 | ImageMagick | 写真のリサイズ・回転（Windowsの場合） | `winget install ImageMagick.ImageMagick` |
 | ffmpeg | 動画からのサムネイル抽出 | `winget install Gyan.FFmpeg`（macOSは `brew install ffmpeg`） |
+| Python 3.10+ | 議事録の文字起こし・販売分析 | https://www.python.org/ |
+| faster-whisper | 音声のローカル文字起こし（/make-minutes 用） | `pip install faster-whisper` |
+| pandas ほか | 販売実績の分析（/analyze-sales 用） | `pip install pandas matplotlib openpyxl` |
 
 macOS の場合、画像処理は標準の `sips` が使われるので ImageMagick は不要。
+Python 系は該当スキルを初めて使うときに入れればよい（スキルが案内する）。
 
 ## 2. リポジトリの取得
 

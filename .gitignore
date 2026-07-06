@@ -1,2 +1,16 @@
 .DS_Store
 Thumbs.db
+
+# 音声ファイルは git に入れない（議事録の元データ。文字起こし後はローカル保管）
+*.m4a
+*.mp3
+*.wav
+*.wma
+*.aac
+
+# Office の一時ファイル
+~$*
+
+# 文字起こしスクリプトの一時ファイル
+transcribe.py
+__pycache__/
