@@ -5,7 +5,7 @@
 | 柱 | 入力 | 出力 | スキル |
 |---|---|---|---|
 | 🔍 視察・展示会 | 日報メモ＋写真 | Report.md＋知識ベース | `/build-report` |
-| 🎙️ 会議 | 音声 or 文字起こし | Gijiroku.md＋アクション一覧 | `/make-minutes` |
+| 🎙️ 会議 | 音声 or 文字起こし | {フォルダ名}議事録.md＋アクション一覧 | `/make-memo` |
 | 📊 販売実績 | CSV / Excel | グラフ付き分析レポート | `/analyze-sales` |
 
 仕組みは [Bishamon-Future-Product-Lab-OS](https://github.com/Yamazaki-27/Bishamon-Future-Product-Lab-OS) を踏襲。
@@ -39,7 +39,7 @@
 | `publish-report` | 出版社 | GitHub 公開前の品質保証・公開判定を行う |
 | `archive-report` | 知識アーキビスト | Report.md から技術・企業・トレンド・アイデアを抽出する |
 | `make-lecture` | 講演記録係 | 講演の文字起こしと写真から Lecture.md を作る |
-| `make-minutes` | 書記 | 会議音声をローカルで文字起こしし、Gijiroku.md とアクション一覧を作る |
+| `make-memo` | 書記 | 会議音声をローカルで文字起こしし、{フォルダ名}議事録.md とアクション一覧を作る |
 | `analyze-sales` | データアナリスト | 販売実績データからグラフ付き分析レポートを作る |
 
 書籍・資料の知識ベースに基づく専門アドバイザースキル（山崎さんの /dx-strategy 相当）を追加する場合は
@@ -67,7 +67,7 @@
 
 | 日付 | 会議名 | 出席者 | アクション数 |
 |---|---|---|:---:|
-| 2026年7月1日 | [テスト録音（動作検証）](Meetings/20260701-テスト録音/Gijiroku.md) | ［要確認］ | 0件 |
+| 2026年7月1日 | [テスト録音（動作検証）](Meetings/20260701-テスト録音/20260701-テスト録音議事録.md) | ［要確認］ | 0件 |
 
 <br>
 
