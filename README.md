@@ -51,7 +51,7 @@
 
 | 日付 | 出張先 | 参加者 | 写真枚数・容量 | ナレッジ化 |
 |---|---|---|:---:|:---:|
-| 2026年7月 | [TianyuLux in China](Reports/202607-TianyuLux/Report.md)（作成中） | ［要確認］ | － | － |
+| 2026年7月 | [TianyuLux in China（河北省保定市）](Reports/202607-TianyuLux/Report.md) | 廣田GM、橋本 | － | － |
 
 <br>
 
