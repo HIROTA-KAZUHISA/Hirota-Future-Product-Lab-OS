@@ -29,6 +29,80 @@
 - eSIM（Trifa）セットアップ
 - Alipay / WeChat Pay 設定
 
+### 出発〜関西国際空港
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_070454.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_070621.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">名古屋駅できしめんを食べて出発。食券機で購入、熱々で出てきた。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_081727.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_082538.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">橋本GMと名古屋駅マクドナルドで合流。念願のツーショット。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_091254.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_100622.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：名鉄特急で難波へ。右：難波から南海電車で関西国際空港へ。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260713_101643.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">関西国際空港 国際線出発案内板。北京・上海・香港など多数のフライトが並ぶ。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_115633.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_122724.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：ラウンジで軽食。右：2026年6月2日オープンした関西国際空港の国際線新エリア。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_124229.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_124447.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">搭乗前の空港エプロン。地上支援機材が慌ただしく動く。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260713_151504.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">機内食。牛肉の煮物ご飯、ミニ今川焼き（こしあん）、フルーツ。</p>
+
+### 北京首都国際空港 到着・乗り継ぎ
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_171120.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_171400.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：中国空港エプロン到着（乗り継ぎ）。右：中国国際航空便がゲートに接続中。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260713_173615.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">北京首都国際空港ターミナル。特徴的な格子状の天井、吹き抜けの開放感が印象的。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_175248.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_175832.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：「KAFFA FUTURE（卡法未来）」の現磨咖啡（フレッシュグラウンドコーヒー）自販機。スマホ決済・24時間対応。中国のキャッシュレス自販機の進化を実感。右：手荷物受取エリア。</p>
+
+### 保定へ移動
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_185342.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_191035.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：空港から専用車で保定へ。高速道路を走る中国のEV（青いナンバープレート）。右：北京郊外の集合住宅。エアコン室外機が壁面を埋め尽くす。</p>
+
 ---
 
 ## 第2日（7月14日・火）｜TianyuLux 工場視察・商談
@@ -58,6 +132,92 @@
 - 電動ホイストで約20年以上の実績があり、その技術をギアボックスに転用
 - 昇降シリンダユニットの検査装置は自社技術者が開発（高速鉄道用バネを使用）
 - 各工程は1マシン1工程で分業
+
+#### 工場内の様子（動画より）
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-10-17-31-979_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-10-17-57-185_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">駆動ユニット（モーター＋ギアボックス＋タイヤ）の組立・検品エリア。スタッフが各ユニットを丁寧に目視確認している。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-10-18-45-405_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-22-09-308_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：組立前の駆動ユニット群。モーター・ブラケット・インホイールユニットが一体化している。右：組立ライン全景。各台ごとに部品を組み付ける分業体制。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-24-07-426_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-24-51-588_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：配線ハーネス接続部。オレンジ・赤・白などカラーコーディングされたケーブルが整然と配線されている。右：駆動ユニットの組立中。モーターとギアボックスが一体で取り付けられる。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-26-19-885_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-21-25-819_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：工場内で使用している自社ブランド（天宇力士）の電動パレットトラック。自社製品を自社工場の物流に使用しているのが印象的。右：黄色の電動フォークリフトが組立ラインで部品を運搬。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-27-31-082_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-27-57-614_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">部品保管エリア。ワイヤーメッシュコンテナに分類された金属部品が積まれている。手前のシャフト類は駆動系の軸部品。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-31-06-062_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-31-13-192_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">モーター組立ライン。ブラケットに取り付けられた状態で複数機種が並列に組み立てられている。ピンク色の養生布が目立つ。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-31-43-060_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-31-49-005_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：製造ラインのコンベア部分。ブラケット・ホイールハブ等が整然と並ぶ。右：部品テーブル接写。車輪ハブ・ネジ・ブラケット等の細部まで確認できる。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-32-26-985_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-32-50-432_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">完成した駆動ユニットがパレットに大量に積まれた出荷待ちエリア。チルト・スイング機構を持つ後輪駆動ユニットが整然と並んでいる。仕様ラベルが貼付されている。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-35-39-119_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-42-50-887_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：駆動ユニット検査設備とスタッフ。各ユニットに電圧・電流・回転数・騒音の全数測定を実施する。右：ギアボックスの断面。プラネタリーギアが透明ケース越しに確認できる。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-41-50-640_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-42-06-878_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">完成品在庫エリア。大型パレットに大量のモーターユニット（左）と、ホイール付き駆動ユニットの棚（右）。年産5万台規模を裏付ける生産量。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-45-03-112_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-45-26-926_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：「勇者攀高峰」のスローガンが掲げられたショットブラスト工場入口。抛丸区（ショットブラスト区）の看板も確認できる。鋼材の前処理工程を自社内で保有。右：工場内全景と2階建て事務棟。</p>
+
+<br>
+<p>
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-49-18-331_com.miui.videoplayer.jpg" width="390">
+<img src="Images/必須追加_resized/Screenshot_2026-07-16-11-49-24-457_com.miui.videoplayer.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">将来の増産に向けて建設が進む新工場棟。ガラス張りの外観でほぼ完成状態。フォークリフトが工場敷地内を行き来する。</p>
 
 ---
 
