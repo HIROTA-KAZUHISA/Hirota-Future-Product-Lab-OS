@@ -64,6 +64,10 @@
 <p style="color:#888888; font-size:1.05em;">左：ラウンジで軽食。右：2026年6月2日オープンした関西国際空港の国際線新エリア。</p>
 
 <br>
+<img src="Images/必須_resized/ユニクロ.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">「ユニクロ 関西空港出国エリア店」のTAX FREE案内。出国前にベルトを購入。</p>
+
+<br>
 <p>
 <img src="Images/必須_resized/IMG_20260713_124229.jpg" width="390">
 <img src="Images/必須_resized/IMG_20260713_124447.jpg" width="390">
@@ -719,6 +723,10 @@
 </p>
 <p style="color:#888888; font-size:1.05em;">左：京东便利店で購入した「茉莉清抹（ジャスミン抹茶）」無糖飲料500ml。中国のペットボトル飲料のデザインセンスが高い。右：保定東駅のプラットフォームに停車した高速鉄道CRH。スタイリッシュなホーム設備と銀色の車体。</p>
 
+<br>
+<img src="Images/必須_resized/お土産.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">保定→北京の高速鉄道車内販売で購入した記念切手セット。石家庄印钞有限公司のギフトボックス。</p>
+
 ### 3. 保定 → 北京 移動・長城観光
 
 - 慕田峪長城への日帰り観光（時間的制約のためホテルチェックインを後回しにして直行）
@@ -827,17 +835,8 @@
 <p style="color:#888888; font-size:1.05em;">関西国際空港のマクドナルド（関西国際空港店）のレシート。2026年7月16日13:06、ビッグマックセット980円。無事日本帰国の実感。</p>
 
 <br>
-<p>
-<img src="Images/必須_resized/ユニクロ.jpg" width="500">
-</p>
-<p style="color:#888888; font-size:1.05em;">「ユニクロ 関西空港出国エリア店」のTAX FREE案内。日本帰国のリアルを感じる瞬間。</p>
-
-<br>
-<p>
-<img src="Images/必須_resized/IMG_20260716_161321.jpg" width="390">
-<img src="Images/必須_resized/お土産.jpg" width="390">
-</p>
-<p style="color:#888888; font-size:1.05em;">左：関西国際空港（南海電鉄乗り場）の改札機整備。日本に帰ってきた実感。右：保定のお土産。石家庄印钞有限公司のギフトボックス（記念切手セット）。</p>
+<img src="Images/必須_resized/IMG_20260716_161321.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">関西国際空港（南海電鉄乗り場）の改札機整備。日本に帰ってきた実感。</p>
 
 ---
 
