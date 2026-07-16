@@ -101,11 +101,73 @@
 <img src="Images/必須_resized/IMG_20260713_185342.jpg" width="390">
 <img src="Images/必須_resized/IMG_20260713_191035.jpg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">左：空港から専用車で保定へ。高速道路を走る中国のEV（青いナンバープレート）。右：北京郊外の集合住宅。エアコン室外機が壁面を埋め尽くす。</p>
+<p style="color:#888888; font-size:1.05em;">左：空港から専用車で北京西駅へ。高速道路を走る中国のEV（青いナンバープレート）。右：北京郊外の集合住宅。エアコン室外機が壁面を埋め尽くす。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260713_195316.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">北京市内の特徴的な3棟のガラスタワー。北京西駅への移動中の車窓。</p>
+
+### 北京西駅・夕食・高速鉄道で保定へ
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_202837.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_202842.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：北京西駅（Beijing Railway Station）外観。右：北京西駅前の高層オフィスビル群。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260713_205120.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">北京西駅近くの餃子チェーン「迦」で夕食。大馅水饺（大ぶり水餃子）セットが名物。白菜猪肉・牛肉・韮菜卵など多種。一套46〜52元。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260713_212708.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">北京西駅の広大な待合ホール。長椅子にびっしり座る旅客。高速鉄道（CRH）の出発を待つ人波。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_224211.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_224314.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：高速鉄道（CR系）の車内。日本の新幹線に似た座席配置。右：深夜、保定東駅のホームに到着。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260713_225122.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260713_225726.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">保定東駅到着。左：ライトアップされた近代的な保定東駅前広場。右：改札出口付近、スーツケースを持った旅行者が行き交う。</p>
 
 ---
 
 ## 第2日（7月14日・火）｜TianyuLux 工場視察・商談
+
+### ホテル発〜TianyuLux工場へ
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260714_090954.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260714_091011.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">ホテルの廊下を自律移動する配送ロボット（左）と、エレベーターに自律乗降するロボット（右）。中国のスマートホテル化が実用フェーズに入っていることを実感。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260714_091338.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">TianyuLuxからの歓迎カード「非常高兴 再次见到您！（またお会いできて大変嬉しい）」。先回りした気遣いが印象的。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260714_100918.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260714_101400.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">工場周辺の道路事情。大雨の後で泥道と水たまりが続く。「全地形越野」製品の需要をまさに体感できる現場環境。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260714_101508.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260714_101804.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：TianyuLux工場の正門（黄色い建物）。右：工場地帯に並ぶ「液圧設备」（油圧設備）工場。工業団地内に関連製造業が集積している。</p>
 
 ### 1. 会社概要
 
@@ -381,7 +443,61 @@
 
 ---
 
+### 製品展示確認・商談・夕食
+
+<br>
+<img src="Images/必須_resized/IMG_20260714_144620.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">工場見学後の昼食会。円卓に並ぶ保定料理の数々。TianyuLux側がもてなしてくれた。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260714_152630.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260714_152647.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：橋本GMが「全地形越野王」ラベルの電動パレットトラックを詳細確認。右：天宇力士ブランドの展示室。橋本GMとAngelaさんが製品スペックを照合。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260714_153411.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260714_162549.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：駆動ユニット部のスイング機構接写。チルト・スイング構造が悪路対応の鍵。右：「越野王」ブランド（黒・赤）の電動パレットトラック3台が並ぶ展示室。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260714_193826.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">商談後、TianyuLuxのスタッフと記念撮影。左から：Angelaさん、廣田GM、通訳の新さん、張技術部長、橋本GM。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260714_203322.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260714_210308.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：夕食会場「燕南饭店（品味燕南）」外観。赤い提灯と金色のライトアップが華やか。右：夕食の円卓。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260714_205634.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">保定料理のタレ各種。胡麻ダレ・ラー油・葱・黒酢など。羊肉しゃぶしゃぶの薬味として。</p>
+
+---
+
 ## 第3日（7月15日・水）｜冷凍倉庫視察・机器人産業園・北京
+
+### ホテル・保定市街
+
+<br>
+<img src="Images/必須_resized/IMG_20260715_053206.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">早朝5:32、ホテル客室から望む保定市街の夜明け。遠景に独特のドーム型ショッピングモールが見える。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260715_063508.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260715_075414.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：ホテルの朝食ビュッフェ（フルーツ・ハム・チーズ等）。右：朝食会場全景。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260715_081257.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">ホテルのロビー。大理石の床と高い天井、落ち着いた中国式インテリア。</p>
 
 ### 1. 冷凍倉庫現地見学（天宇製品の実用確認）
 
@@ -389,6 +505,20 @@
 - **滞在可能時間：** 10分程度が限度
 - 目的：冷凍倉庫用製品（白タイヤ・無痕仕様）の実用環境を確認
 - 建築現場の見学は季節性・稼働の都合により不可
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260715_085651.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260715_092050.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫内（庫内温度−18℃）。左：厚着の作業員が黄色い電動パレットトラックを操作。右：食品箱がびっしり積まれた長い通路。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260715_092117.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260715_093245.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：冷凍倉庫内で稼働中の「中力叉车」リーチスタッカー。悪路ではなく平坦床のため一般的な機器が使用されている。右：荷捌き場でリフトへ搬入する場面。赤い電動パレットトラックが活躍中。</p>
 
 ### 2. 机器人産業園視察（別会社）
 
@@ -404,10 +534,70 @@
 
 地場の自動車産業（長城汽車等）が周辺製造業を牽引する産業集積が存在。
 
-### 3. 保定 → 北京 移動・観光
+<br>
+<img src="Images/必須_resized/IMG_20260715_103509.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">机器人産業園の海外部門オフィスにて、スタッフ全員と記念写真。「世界地図」が貼られた壁と「知行合一」「徳正行端」のスローガンが印象的。海外部門11名が積極的に展開中。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260715_130707.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">保定から北京へ移動中の車窓。保定市郊外の高層マンション群。整然と並ぶタワーマンションが続く。</p>
+
+### 3. 保定 → 北京 移動・長城観光
 
 - 慕田峪長城への日帰り観光（時間的制約のためホテルチェックインを後回しにして直行）
 - 帰路の夕食：順義区・后沙峪の「罗马湖（ローマ湖）」（PEKまで約15〜20分）
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260715_181440.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260715_182155.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：慕田峪長城（慕田峪万里の長城）入口ゲート。「長城文化展示中心」が隣接。右：シャトルバス乗り場に並ぶEVバス（緑ナンバー）。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260715_184218.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260715_184806.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：ロープウェイ（ゴンドラ）で山上へ。オレンジ色のゴンドラが深い緑の山肌を登る。右：万里の長城の城壁上で廣田GM・橋本GM。後方に長城が山稜に沿って延びる壮大な景色。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260715_194953.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">長城周辺の商業街（夕暮れ）。カラフルな傘が天蓋のように並ぶ、観光地らしい賑わい。</p>
+
+---
+
+---
+
+## 第4日（7月16日・木）｜帰国
+
+### 移動ルート
+
+北京（ホテル） 🚗 北京首都国際空港 ✈ 関西国際空港 🚄 （名古屋方面）
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260716_072820.jpg" width="390">
+<img src="Images/必須_resized/IMG_20260716_074909.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">北京首都国際空港のターミナル。左：清掃スクラバーが走り、「都都（DoDo）」キャラクターで工事中のパーテーションが印象的。右：搭乗ゲート付近の広大な待合エリア。係員がEVスクーターで移動。</p>
+
+<br>
+<img src="Images/必須_resized/IMG_20260716_095731.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">Air China（中国国際航空）の朝食機内食。お粥・フルーツ・スナック・ヨーグルト。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/ユニクロ.jpg" width="500">
+</p>
+<p style="color:#888888; font-size:1.05em;">「ユニクロ 関西空港出国エリア店」のTAX FREE案内。日本帰国のリアルを感じる瞬間。</p>
+
+<br>
+<p>
+<img src="Images/必須_resized/IMG_20260716_161321.jpg" width="390">
+<img src="Images/必須_resized/お土産.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：関西国際空港（南海電鉄乗り場）の改札機整備。日本に帰ってきた実感。右：保定のお土産。石家庄印钞有限公司のギフトボックス（記念切手セット）。</p>
 
 ---
 
